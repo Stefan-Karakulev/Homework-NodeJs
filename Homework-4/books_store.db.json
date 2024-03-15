@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "bookTitle": "The Great Gatsby",
+        "isAvailable": true,
+        "genre": "Fiction",
+        "author": "F. Scott Fitzgerald",
+        "pages": 218
+    },
+    {
+        "id": "2",
+        "bookTitle": "To Kill a Mockingbird",
+        "isAvailable": true,
+        "genre": "Fiction",
+        "author": "Harper Lee",
+        "pages": 324
+    },
+    {
+        "id": "3",
+        "bookTitle": "1984",
+        "isAvailable": true,
+        "genre": "Science Fiction",
+        "author": "George Orwell",
+        "pages": 328
+    }
+]
+
+
